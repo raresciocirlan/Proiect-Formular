@@ -1,0 +1,8 @@
+----------------
+Nume: Ciocirlan
+Prenume: Rares
+Varsta: 19
+Liceul absolvit: Colegiul National FLori
+Media bac: 9
+----------------
+

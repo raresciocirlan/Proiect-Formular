@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1623957364 source:d:\c\proiect sp bun\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<vector>
+	<fstream>
+
